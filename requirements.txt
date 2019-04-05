@@ -2,7 +2,8 @@ numpy
 ipywidgets
 nbinteract
 sys
-scipy
+scipy.io
 matplotlib
 sklearn
 wave
+scipy
